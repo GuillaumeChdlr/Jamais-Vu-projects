@@ -1,0 +1,1 @@
+lancer les fichiers python depuis la CLI de windows (win+r cmd) parce que sinon ça va pas pouvoir lire les fichiers 
