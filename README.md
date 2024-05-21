@@ -11,3 +11,6 @@ both softs has a same goal, induction with repetitive reading and timer for jama
 
 
 All the programs are commented in french (I'll do in english next time or later, but I wasn't thinking about sharing them here at first so...) sorry :)
+
+
+nota bene : "V8" files are E-Prime 3 files. V8 stands for Version 8, which is the version I stopped at before experimenting with writing. But it works for word repetition and (perhaps) the induction of never-before-seen by long fixation. 
